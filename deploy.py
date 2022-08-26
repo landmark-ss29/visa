@@ -7,3 +7,4 @@ print( 'hello world' )
 deploy in the dev envD
 deployment5 master
 delpoyment4
+deploy to stating
